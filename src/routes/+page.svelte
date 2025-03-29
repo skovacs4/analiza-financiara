@@ -4,7 +4,6 @@
   import Suport from "$lib/components/Suport.svelte";
   import Contact from "$lib/components/Contact.svelte";
   import Spirala from "$lib/components/Spirala.svelte";
-  import Footer from "$lib/components/Footer.svelte";
 </script>
 
 <!-- Componente  -->
@@ -13,7 +12,7 @@
 <Suport />
 <Contact />
 <Spirala />
-<Footer />
+
 
 <style lang="postcss">
 </style>
