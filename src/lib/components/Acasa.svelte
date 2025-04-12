@@ -3,7 +3,7 @@
     import acasa from "$lib/images/poza-acasa.png";
   </script>
   
-  <section class="bg-[#050937] text-white py-20 px-6 md:px-16 relative overflow-hidden">
+  <section id="acasa" class="bg-[#050937] text-white py-20 px-6 md:px-16 relative overflow-hidden">
     <!-- Background decorative wave lines -->
     <img
       src="{abstract}"
@@ -22,7 +22,7 @@
           Automat. Rapid. Personalizat.
         </p>
         <a
-          href="/inregistrare"
+          href="/login"
           class="inline-block bg-[#E0E5F9] text-[#050937] px-6 py-4 rounded-full text-lg font-medium hover:bg-[#d6dbf0] transition"
         >
           Începe acum

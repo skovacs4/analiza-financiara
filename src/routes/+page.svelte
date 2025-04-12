@@ -4,8 +4,14 @@
   import Suport from "$lib/components/Suport.svelte";
   import Contact from "$lib/components/Contact.svelte";
   import Spirala from "$lib/components/Spirala.svelte";
-  import Footer from "$lib/components/Footer.svelte";
 </script>
+
+<!-- +page.svelte or any .svelte file -->
+<svelte:head>
+  <title>Analiza Financiară AI</title>
+  <meta name="description" content="Transformă datele financiare în decizii strategice." />
+  <meta property="og:title" content="Analiza Financiară AI" />
+</svelte:head>
 
 <!-- Componente  -->
 <Acasa />
@@ -13,7 +19,8 @@
 <Suport />
 <Contact />
 <Spirala />
-<Footer />
 
-<style lang="postcss">
+
+<style lang="">
 </style>
+

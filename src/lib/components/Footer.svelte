@@ -22,9 +22,9 @@
       <div>
         <h3 class="font-semibold text-2xl mb-8">Politici</h3>
         <ul class="space-y-4 text-base">
-          <li><a href="#" class="hover:underline">Termeni și condiții</a></li>
-          <li><a href="#" class="hover:underline">Politica de confidențialitate</a></li>
-          <li><a href="#" class="hover:underline">Politica de livrare a serviciilor</a></li>
+          <li><a href="/politici#termeni" class="hover:underline">Termeni și condiții</a></li>
+          <li><a href="/politici#confidentialitate" class="hover:underline">Politica de confidențialitate</a></li>
+          <li><a href="/politici#servicii" class="hover:underline">Politica de livrare a serviciilor</a></li>
         </ul>
       </div>
   

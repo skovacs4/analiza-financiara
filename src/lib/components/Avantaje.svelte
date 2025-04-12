@@ -6,7 +6,7 @@
 </script>
 
 <!-- ✅ Section 1: Unique Solution -->
-<section class="bg-[#F9FAFB] py-24 px-6 mt-12 mb-12 md:px-16">
+<section id="avantaje" class="bg-[#F9FAFB] py-24 px-6 mt-12 mb-12 md:px-16">
   <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
     
     <!-- Left: MacBook Image -->
@@ -43,7 +43,7 @@
 </div>
 
 <section
-  class="bg-[#F9FAFB] py-32 px-6 md:px-16 relative overflow-hidden"
+  class="bg-[#F9FAFB] py-22 px-6 md:px-16 relative overflow-hidden"
   style="background-image: url({legatura}); background-repeat: no-repeat; background-position: center; background-size: contain;"
 >
 
@@ -59,7 +59,7 @@
           1. Analiza performanței firmei pe baza rentabilității
         </h3>
         <p class="text-base opacity-90">
-          Încarci Contul de profit și pierdere pe ultimii 3 ani, iar noi îți oferim o imagine clară a performanței afacerii tale.
+          Datele din contul de profit și pierdere aferente ultimilor trei ani sunt completate manual de utilizator. Structura aplicației include toate câmpurile relevante, deja specificate.
         </p>
       </div>
     </div>
@@ -72,7 +72,7 @@
       <div class="relative z-10 min-h-24">
         <h3 class="font-semibold mb-6 text-2xl min-h-16">2. Analiza poziției financiare</h3>
         <p class="text-base opacity-90">
-          Încarci bilanțul contabil pe ultimii 3 ani, iar noi îți prezentăm o evaluare detaliată a situației și stabilității financiare a firmei.
+          Datele din bilanțul contabil aferente ultimilor trei ani sunt completate manual de utilizator. Structura aplicației include toate câmpurile relevante, deja specificate.
         </p>
       </div>
     </div>
@@ -85,7 +85,7 @@
       <div class="relative z-10 min-h-24">
         <h3 class="font-semibold mb-6 text-2xl min-h-16">3. Ce spun indicatorii despre afacerea ta</h3>
         <p class="text-base opacity-90">
-          Îți oferim o interpretare clară și descriptivă a indicatorilor financiari care reflectă starea reală a afacerii tale.
+          Pe baza datelor introduse manual de utilizator, se generează automat o interpretare clară și descriptivă a principalilor indicatori financiari.
         </p>
       </div>
     </div>
